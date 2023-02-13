@@ -1,9 +1,9 @@
 admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
 Silas, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 2 Sep 2030, Yes
 Papertrail, Capstone 2, Create a programme to log tasks and register users, 28 Dec 2022, 9 Jan 2023, No
-farmer, Till the fields, Preparing the ground for sowing seeds, 28 Dec 2022, 12 Jun 2023, Yes
-Bones, Project X, Classified, 13 Jan 2023, 31 Dec 2023, No
-Hotsauce, Finish Capstone 3, Write the rest of the code, Go through and test all, 5 May 2023, No
+Liza, Till the fields, Preparing the ground for sowing seeds, 28 Dec 2022, 12 Jun 2023, Yes
+Sally, Project X, Classified, 13 Jan 2023, 31 Dec 2023, No
+Hetty, Finish Capstone 3, Write the rest of the code, Go through and test all, 5 May 2023, No
 admin, Chop wood, Split the logs that are in the shed so they will fit in the wood burning stove, 22 Jan 2023, 25 Feb 2023, No
-farmer, Fencing, Repair all the fences around the livestock fields, 22 Jan 2023, 31 May 2023, No
+Liza, Fencing, Repair all the fences around the livestock fields, 22 Jan 2023, 31 May 2023, No
 Silas, Build database, Gather data, plan structure, build database, 22 Jan 2023, 4 Feb 2023, No

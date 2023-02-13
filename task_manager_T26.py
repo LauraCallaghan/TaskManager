@@ -231,7 +231,7 @@ def view_mine():
     # Asks the user to select a task by entering its number, or to exit by typing '-1'
     while True:
         # Gets the input of the task number selected
-        vm_task_choice = int(input(f"\n{yellow}Please select a task number, or enter {bold}-1{reset}{yellow} to exit to main menu:{reset} "))
+        vm_task_choice = int(input(f"\n{yellow} To update a task, select a task number, or enter {bold}-1{reset}{yellow} to exit to main menu:{reset} "))
 
         # If -1 is entered, exits the function and returns to the main menu 
         if vm_task_choice == -1:
@@ -246,7 +246,7 @@ def view_mine():
             print(f"\nYou have selected {cyan}Task {vm_task_choice}, '{saved_task_data[vm_task_choice][1]}'{reset}")           
         
         # ---- TASK EDIT MENU LOOP ---- # 
-        # Displays a menu offering options to choose to edit the user assignedm, the due date or the completeness of the selected task
+        # Displays a menu offering options to choose to edit the user assigned, the due date or the completeness of the selected task
         while True:
             edit_menu = f"\n{yellow}-------[ {white}SELECT AN OPTION{yellow}]----------\n"
             edit_menu += f"1 - Edit task: reassign to a different user\n"
